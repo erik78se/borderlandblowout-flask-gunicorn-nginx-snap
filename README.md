@@ -1,4 +1,4 @@
-# flask-config
+# flask-nginx
 
 This is a bare bones example of snapping a flask application with dynamic config.
 
